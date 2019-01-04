@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author pc
+ * @author hoaipc
  */
 public class FoodContainer {
 
